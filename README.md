@@ -1,3 +1,6 @@
+# Proqrami ishe salmaq
+Movcud proyekti git clone etdikden sonra nodu-modules paketlerinin endirilmesi ucun npm i emri icra olunmalidi. Yuklenme tamamlandirqdan sonra npm start ile proqram localhost-da acilacaqdir. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
